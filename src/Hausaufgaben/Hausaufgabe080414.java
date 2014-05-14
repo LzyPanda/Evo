@@ -1,6 +1,9 @@
+package Hausaufgaben;
+
 /**
  * Created by Yusuf Peker & Simon Buttke on 10.04.14.
  */
+
 public class Hausaufgabe080414 {
 
 

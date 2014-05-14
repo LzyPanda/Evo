@@ -1,5 +1,7 @@
+package Uebung;
+
 /**
- * Created by lzypanda on 09.04.14.
+ * Created by lzypanda and CroMarmot on 09.04.14.
  */
 
 import java.lang.Math;
