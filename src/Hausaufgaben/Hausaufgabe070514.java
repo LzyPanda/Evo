@@ -5,8 +5,7 @@ import java.util.Arrays;
 /**
  * Created by lzypanda on 14.05.14.
  */
-
-public class Hausaufgabe070512 {
+public class Hausaufgabe070514 {
     //k=11     a=-1     b=1
 
     private static Points[] arr;
